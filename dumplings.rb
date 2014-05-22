@@ -1,4 +1,4 @@
-class bake
+class Bake
 	def jump
 		#jumping dumplings
 	end
